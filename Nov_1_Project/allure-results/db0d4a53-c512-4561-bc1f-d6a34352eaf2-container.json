@@ -1,0 +1,1 @@
+{"uuid":"db0d4a53-c512-4561-bc1f-d6a34352eaf2","name":"org.annotation.Adactin_TestNG_Annotation","children":["0732342a-26c5-4a11-95e4-5cb226d9eb51"],"befores":[{"name":"Sessioncreate","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1668943290537,"stop":1668943294809}],"afters":[],"start":1668943290447,"stop":1668943302042}
